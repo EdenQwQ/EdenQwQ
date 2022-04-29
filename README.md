@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdenQwQ&hide=javascript,html,css&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=F5E0DC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdenQwQ&hide=javascript,html,css&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenQwQ&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=F5E0DC)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenQwQ&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF)](https://github.com/anuraghazra/github-readme-stats)
