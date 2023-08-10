@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Eden](https://EdenQwQ.netlify.app).
+# Hi there 👋, I'm [Eden](https://eden.is-a.dev).
 
 <!--
 **EdenQwQ/EdenQwQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on my linux dotfiles.  
-🌱 I’m currently learning rust.
+🌱 I’m currently learning wlroots.
 
 ## 📈 My GitHub Stats
 
